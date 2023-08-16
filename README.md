@@ -25,6 +25,7 @@ We conducted our research in the Telegram app and wished to answer the following
 9. What are the differences in packet sizes between the traffic that goes through WhatsApp and Telegram?
 10. Can we distinguish transmitted content even when there is constant background "noise"?
 
+The study and its conclusions are in the file research.ipynb
 enjoy reading!
 
 Instructions for running the plots:
